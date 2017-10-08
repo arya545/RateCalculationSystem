@@ -1,0 +1,9 @@
+com\zopa\model\Lender$1.class
+com\zopa\quote\IRateCalculator.class
+com\zopa\utils\CSVReader.class
+com\zopa\utils\PropertyReader.class
+com\zopa\quote\impl\RateCalculator.class
+com\zopa\model\Lender.class
+com\zopa\main\App.class
+com\zopa\utils\CurrencyUtils.class
+com\zopa\utils\DecimalUtils.class
