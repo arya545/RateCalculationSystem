@@ -9,9 +9,7 @@ public class App {
 	
 	public static void main(String[] args) throws IOException {
 		
-		 //File Name
 		 String fileName=args[0];
-		 //Loan Amount
 		 long loanAmount=Long.parseLong(args[1]);
 		 
 		 /*String fileName="E://Ganesh//Zopa Questions//Market_Data_for_Exercise.csv";
